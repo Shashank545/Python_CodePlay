@@ -2,7 +2,7 @@
 All python codes for practice and perfecting the programming skills.It includes all concepts of OOPs, Database management, REST API and web scrapping.
 
 
-#### If you like this work, you may also like my blogs
+## If you like this work, you may also like my blogs
 
 Do not forget to follow me at, [Shashank's Medium Profile](https://medium.com/@Immaculate_sha2nk)
 
